@@ -24,5 +24,5 @@ int main()
             kount++;
 
     }
-    std::cout << "!!! trafiono " << kount << " razy!!!";
+    std::cout << "!!! Hits: " << kount;
 }
